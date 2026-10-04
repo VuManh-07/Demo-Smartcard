@@ -1,0 +1,11 @@
+/mode trace=on
+/mode echo=off
+#set-key 255/1/DES-ECB/b09300e6dc4d11e7f1d29e06ac5a8882 255/2/DES-ECB/9240d77b858d366900ddf9c412888149 255/3/DES-ECB/00193889fbe36d14110a42ba964d192d
+set-key 32/1/DES-ECB/404142434445464748494A4B4C4D4E4F 32/2/DES-ECB/404142434445464748494A4B4C4D4E4F 32/3/DES-ECB/404142434445464748494A4B4C4D4E4F
+
+init-update scp_03_70
+ext-auth crmacencrenc
+#delete -r A000010203
+#upload -b 250 "C:\Users\PC\eclipse-workspace\wallet-smartcard\bin\user\javacard\user.cap"
+#install -i A00001020304  -q C9#() A000010203 A00001020304
+card-info

@@ -1,0 +1,32 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cuong",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aes-cmac": "^2.0.0",
+    "aes-cros": "^1.0.0",
+    "aes-cross": "^1.1.2",
+    "bip39": "^3.0.4",
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "ethereum-hdwallet": "^0.1.2",
+    "ethereum-public-key-to-address": "^0.0.5",
+    "ethers": "^5.7.0",
+    "hdkey": "^2.0.1",
+    "js-sha256": "^0.9.0",
+    "keccak256": "^1.0.6",
+    "node-gp": "^1.12.5",
+    "smartcard": "^1.0.46",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "axios": "^1.7.2",
+    "eslint": "^8.24.0"
+  }
+}
