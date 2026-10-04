@@ -1,0 +1,6 @@
+/echo enabling modes echo and trace...
+/mode echo=off trace=on
+
+#enabling gp22 Amendment A support functions
+#gp22/gp22_AmdA
+

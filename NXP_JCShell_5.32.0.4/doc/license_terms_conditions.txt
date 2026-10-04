@@ -1,0 +1,1058 @@
+﻿IMPORTANT: Before installing this software carefully read the following terms and conditions. This Software End-User License Agreement is a binding agreement between you, the end-user and licensee (“Licensee”), and NXP Semiconductors Netherlands B.V. regarding the use of the software accompanying this Agreement, which includes computer software and provided documentation. By installing, copying or otherwise using the computer software and provided documentation, you agree to be bound by the terms of this License Agreement.  
+
+END USER LICENSE AGREEMENT
+
+This End User License Agreement (the "Agreement") is made and entered into as of the date of first installation of Licensed Software at Licensee (the "Effective Date") by and between NXP Semiconductors Netherlands B.V. ("NXP") and the legal entity where installation of Licensed Software is made "Licensee". (NXP and Licensee are occasionally referred to herein individually as a "Party" and collectively as the "Parties.")
+
+Whereas, NXP has designed and developed the NXP IC's (as defined below) and Licensee wishes to incorporate the NXP IC's in certain products of Licensee, the "Licensed Products" (as defined below);
+
+Whereas, NXP has developed or acquired rights to certain application software, the "Licensed Software" (as defined below), and Licensee desires to license the Licensed Software for use in certain products of Licensee, the "Licensed Products" (as defined below) solely in conjunction with the NXP IC's; and 
+
+Whereas, NXP is willing to license the Licensed Software to Licensee for use in Licensed Products solely in conjunction with the NXP IC's, under the terms and conditions of this Agreement. 
+
+The Parties hereby agree to the following terms and conditions:
+
+
+1.0 DEFINITIONS.   
+
+In addition to other terms defined elsewhere in this Agreement, the following terms used herein, when the first letter is capitalized, shall have the meanings set forth in this Section 1. All definitions below shall apply both to their singular or plural forms, as the context may require.
+  
+1.1 For NXP, the term “Affiliate” means (i) any Person Controlled by NXP Semiconductors N.V. or (ii) any Person Controlled by any transferee of all or substantially all of the assets of NXP Semiconductors N.V., where “Controlled” means the direct or indirect beneficial ownership of more than fifty percent (50%) of the voting stock, or decision-making authority in the event that there is no voting stock, in another entity; provided, any such Person described in clause (i) or (ii) shall be deemed to be an “Affiliate” only for so long as such Person is Controlled by NXP Semiconductors N.V. or such transferee.  “Person” is defined to mean “an individual, corporation, partnership, limited liability company, association, unincorporated association, trust or other entity or organization, including a government or political subdivision or an agency or instrumentality thereof.” For Licensee, the term "Affiliate" shall mean any corporation or other legal entity that a party now or hereafter Controls, is Controlled by or is under common Control with; where "Control" means the direct or indirect ownership of more than fifty percent (50%) of the shares or similar interests entitled to vote for the election of directors or other persons performing similar functions.
+
+1.2 "Confidential Information" shall mean the Licensed Software, including where applicable according to Appendix A, all Source Code and Documentation thereof, and any other information provided by NXP to Licensee under this Agreement which has been identified as proprietary and/or confidential information, or that, by its nature and the surrounding circumstances and in good faith, ought to be treated as proprietary and/or confidential.
+
+1.3 "Documentation" shall mean all related comments, annotations, instructions, manuals, and other written materials, whether in printed or electronic form, including without limitation, customer reference and installation manuals, user's guides, and programmer guides that NXP includes or otherwise provides with the Licensed Software, all as set forth on Appendix A.
+
+1.4 "End User" shall mean a person or business enterprise which acquires the Licensed Product for its ordinary personal purposes or use in its normal business operations and not for resale or transfer to others in its ordinary course of business. 
+
+1.5 "Executable Code" shall mean the machine-executable version of the Licensed Software as set forth on Appendix A, and further such Executable Code, in whole or in part, which results from linking, loading or assembling (or other similar process), as required, the Object Code into machine language, executable form. 
+
+1.6 "Licensed Executable Code" shall mean the Executable Code as set forth on Appendix A.
+
+1.7 "Licensed Object Code" shall mean the Object Code as set forth on Appendix A, 
+
+1.8 "Licensed Source Code" shall mean the Source Code as set forth on Appendix A.
+
+1.9 "Licensed Product" shall mean any product based on NXP IC's produced by or for Licensee which incorporates any Licensed Software, in whole or in part. 
+
+1.10 "Licensed Software" shall mean all the software, as set forth on Appendix A.  
+
+1.11 "NXP IC's" shall mean NXP’s integrated circuits that include NXP’s JCOP operating system,  manufactured and sold by or for NXP.
+
+1.12 "Object Code" shall mean all or any portion of the machine-readable or machine language version of the Licensed Software, and all corrections, updates, and revisions and improvements thereto, which NXP provides to Licensee hereunder. 
+
+1.13 "Source Code" means the human-readable version of software, including without limitation, associated flow charts, algorithms, comments and other written instructions and technical documentation.   
+
+1.14 "Term" shall mean the effective period of the Agreement as further defined in Section 7.1. 
+
+1.15 "Update" shall mean any modification, enhancement, error correction, maintenance release and/or revisions to the Licensed Software which may be provided by NXP to Licensee, at NXP sole discretion, hereunder.
+
+
+2.0 LIMITED LICENSE.
+
+2.1 License to Executable Code. Subject to the terms and conditions of this Agreement, NXP hereby grants to Licensee during the Term of this Agreement a personal, non-exclusive and non-transferable royalty-free copyright license, without the right to sublicense, to use the provided Licensed Executable Code (a) to install all components of the Licensed Executable Code on a hard disk or other storage medium or on a network fileserver, (b) to create backup copies of the Licensed Executable Code, and (c) to install and use the Licensed Executable Code solely in-house. The Licensed Executable Code may only be used in conjunction with or for devices that are developed, produced, sold and / or authorized by NXP.
+
+2.2 License to Object Code.  Subject to the terms and conditions of this Agreement, NXP hereby grants to Licensee during the Term of this Agreement a non-exclusive, personal, non-transferable royalty-free copyright license, without the right to sublicense, to use the Licensed Object Code from only of the Licensed Software - to the extent the Licensed Object Code version is licensed according to Appendix A- for use in conjunction with NXP IC's in the Licensed Product, and distribute, directly or indirectly, said Licensed Product incorporating such Licensed Software, solely as embedded in the Licensed Product in Executable Code form only, to End Users.
+
+2.3 License to Source Code. Subject to the terms and conditions of this Agreement, NXP hereby grants to Licensee during the Term of this Agreement a non-exclusive, personal, non-transferable royalty-free copyright license, without the right to sublicense, to use and reproduce the Licensed Source Code from only of the Licensed Software for the sole purpose of: (i) creating modifications of the Licensed Source Code, (ii) compiling the Licensed Source Code and/or the modifications of the Licensed Source Code into Object Code, and (iii) using such generated Object Code in accordance with the license for Licensed Object Code as granted under the previous Section 2.2 of this Agreement.
+
+2.4 License to Documentation. Subject to the terms and conditions of this Agreement, NXP hereby grants to Licensee during the Term of this Agreement a non-exclusive, personal, non-transferable royalty-free copyright license, without the right to sublicense, to use only within Licensee's organization the Documentation solely to support and exercise the license rights granted under Sections 2.1 and 2.2.
+
+
+
+3.0 LICENSE RESTRICTIONS.
+
+3.1 Licensee shall not copy, reproduce or distribute Licensed Software and/or Documentation except as expressly provided under Article 2.0.
+
+3.2 Except as expressly provided under Article 2.0, Licensee shall not, and shall not permit any third party to, modify, adapt, alter, translate, merge  with any other software, or create derivative works from any portion of the Licensed Software or Documentation, nor reverse assemble, decompile, disassemble or otherwise attempt to derive Source Code of the Licensed Executable Code or the Licensed Object Code, except and solely to the extent such action is expressly permitted by mandatory applicable law in spite of this provision. 
+
+3.3 Licensee shall not, and shall not permit any third party to, assign, sublicense, lease, rent, loan, transfer, disclose, or otherwise make available the Licensed Software or Documentation.  
+
+3.5 All licenses granted to Licensee under this Agreement shall immediately end upon the expiration or termination of this Agreement.
+
+3.6 The Licensed Software is licensed (under copyright only) and not sold, and any and all references to "sale" or "sold" of any Licensed Software shall be deemed to mean a copyright license, and no ownership or assignment of any intellectual property rights is intended nor shall be implied thereby.   
+
+3.7 Other than the limited copyright license granted to Licensee under Article 2.0 herein, no other rights or licenses are granted, or implied by estoppel or otherwise, under any intellectual property rights of NXP and/or its Affiliates or any intellectual property residing in the Licensed Software, Documentation or any other Confidential Information furnished by NXP. 
+
+3.8 Notwithstanding anything to the contrary herein, this Agreement shall not be construed as conferring any right, license or immunity, either directly or by implication, estoppel or otherwise to Licensee or any third party acquiring any Licensed Software, Documentation or other Confidential Information furnished by NXP:
+  a) under any NXP IPR or intellectual property rights of any third party other than explicitly granted under this Agreement;
+  b) for the combination of such Licensed Software, Documentation or other Confidential Information with one or more other items (including items acquired from NXP and/or its Affiliates) even if such items have no substantial use other than as part of such combination, unless infringement of NXP IPR necessarily results from applying one or more of such items furnished by NXP to Licensee.
+  c) with respect to any trademark, trade or brand name, a corporate name of NXP and/or its Affiliate(s), or any other name or mark, or contraction abbreviation or simulation thereof.
+  d) under any intellectual property rights of NXP and/or its Affiliates covering a standard set by a standard setting body and/or agreed to between at least two companies.
+  e) under any intellectual property rights of NXP and/or its Affiliates with respect to which NXP and/or its Affiliates has informed Licensee or has published (in a datasheet or other specifications concerning the Product or elsewhere) a statement that a separate license has to be obtained and/or that no implied license is granted; or 
+  f) under any intellectual property rights of NXP and/or its Affiliates relating to manufacturing or technical information except as expressly required under this Agreement.
+ 
+3.9 Licensee's rights under the Agreement are conditional upon Licensee not performing, and Licensee shall not perform any actions in a manner that would require any Licensed Software or any derivative work thereof, to be licensed under Open License Terms. These actions include but are not limited to:
+  (i) combining the Licensed Software or a derivative work thereof with Open Source Software, by means of incorporation or linking or otherwise; or
+  (ii) distributing the Licensed Software or a derivative work thereof with Open Source Software; or
+  (iii) using Open Source Software to create a derivative work of the Licensed Software, insofar as these actions would require the Licensed Software or a derivative work thereof to be licensed under Open License Terms.
+
+As used herein, "Open Source Software" means any software that is licensed under Open License Terms. "Open License Terms" means terms in any license agreement or grant that require as a condition of use, modification and/or distribution of a work that:
+  1. source code will be made available, or 
+  2. permission will be granted for creating derivative works, or
+  3. a royalty-free license is granted to any party under any intellectual property rights regarding that work and/or any other work that contains, is combined with, requires or is based on that work.
+
+Notwithstanding any limitation of liability under this Agreement Licensee shall without any limitations indemnify NXP and its Affiliates against and hold NXP and its Affiliates harmless from any damage or costs arising from or in connection with any violation or breach of the provisions of this Section 3 and Licensee shall reimburse all costs and expenses incurred by NXP and/or its Affiliates in defending any claim, demand, suit or proceeding arising from or in connection with such violation or breach.
+
+3.10 Any use of any other software that might be delivered or installed together with the Licensed Software and that is not included in the Licensed Software (i.e. any library for cryptographic algorithms) is not part of this Agreement and mandatorily requests a separate license agreement with NXP.
+
+
+4.0 OWNERSHIP RIGHTS AND OTHER RIGHTS.
+
+4.1 All intellectual property rights covering the Licensed Software, Documentation and other Confidential Information provided hereunder, and all ownership rights in and to such intellectual property rights, Licensed Software, Documentation and other Confidential Information, shall remain solely and exclusively with NXP, its Affiliates or its third party suppliers, whether or not it was developed specifically for the Licensee. 
+
+4.2 Licensee shall not remove or alter any NXP, its Affiliates, or third party supplier copyright notices, proprietary information notices or restricted rights notices contained in any of the Licensed Software, Documentation, and Confidential Information, and shall affix to any media containing a copy or all or any portion thereof, all copyright notices, proprietary information notices and restricted rights notices as were affixed to the original media.
+
+4.3 NXP and its Affiliates shall have the right to use any feedback provided by Licensee to NXP relating to the Licensed Software and its related Documentation without any limitation for any purpose. In the event that Licensee at any time creates any Modification or any intellectual property rights related thereto, Licensee hereby grants NXP and NXP's Affiliates a fully paid-up, royalty free, perpetual, irrevocable, world-wide, non-exclusive license to use, modify, sell, copy, license, distribute, and make derivate work from the Modifications and to grant sub-licenses on the same terms to any third party. 
+
+4.4 Licensee agrees and acknowledges that the Licensed Software shall be owned by NXP and/or its Affiliates. 
+
+
+5.0 AUDIT. 
+
+During the Term of this Agreement and for three years thereafter, NXP, or its designated representative, shall have the right, upon reasonable notice, to audit all relevant books and records of Licensee to ensure Licensee's compliance with the terms and conditions of this Agreement. Licensee shall willingly co-operate and provide all such assistance in connection with such audit as NXP and/or its auditors may require. The audit will be conducted at NXP' expense, unless the audit reveals that Licensee has breached the license terms under this Agreement.
+
+
+6.0. THIRD PARTY RIGHTS.
+6.1 The Software is supplied with, and uses, third party software or materials which are governed by their own separate license agreements set forth in Appendix B (together "DELIVERED THIRD PARTY SOFTWARE"). This License does not apply to such Delivered Third Party Software and they are not included in the term "LICENSED SOFTWARE" under this License. You agree to comply with all terms and conditions imposed on you in respect of such Delivered Third Party Software ("Third Party Terms") set forth in Appendix C. Any provisions in this License which differ from Third Party Terms are offered by NXP alone and shall not supersede or modify any Third Party Terms. In addition to Third Party Terms, the disclaimer of warranty and limitation of liability provisions in this License shall apply to all Licensed Software and Delivered Third Party Software.
+
+6.2 NXP HEREBY DISCLAIMS ANY AND ALL WARRANTIES EXPRESS OR IMPLIED FROM ANY THIRD PARTIES REGARDING ANY DELIVERED THIRD PARTY SOFTWARE, ANY THIRD PARTY MATERIALS INCLUDED IN THE SOFTWARE, ANY THIRD PARTY MATERIALS FROM WHICH THE SOFTWARE IS DERIVED (COLLECTIVELY "OTHER CODE"), AND THE USE OF ANY OR ALL THE OTHER CODE IN CONNECTION WITH THE SOFTWARE, INCLUDING (WITHOUT LIMITATION) ANY WARRANTIES OF SATISFACTORY QUALITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+6.3 NO THIRD PARTY LICENSORS OF OTHER CODE SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND WHETHER MADE UNDER CONTRACT, TORT OR OTHER LEGAL THEORY, ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE OTHER CODE OR THE EXERCISE OF ANY RIGHTS GRANTED UNDER EITHER OR BOTH THIS LICENSE AND THE LEGAL TERMS APPLICABLE TO ANY SEPARATE FILES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+
+7.0 TERM AND TERMINATION.
+
+7.1 This Agreement shall commence on the Effective Date and shall have a term of two (2) years, unless terminated sooner as set forth herein (the "Term").
+
+7.2 Without prejudice to any rights or remedies of NXP, NXP may, by written notice to Licensee, terminate with immediate effect this Agreement, without any liability, in NXP’s sole discretion at any time. 
+
+7.3 The license shall terminate automatically, if:
+
+  (a) Licensee violates or breaches any of the provisions of this Agreement; 
+  (b) a voluntary or involuntary petition in bankruptcy or winding up is filed against Licensee, any proceedings in insolvency or bankruptcy (including reorganization) are instituted against Licensee, a trustee or receiver is appointed over Licensee, or any assignment is made for the benefit of creditors of Licensee; or
+(c) and to the extent as required by applicable third party rights according to Section 6 of this Agreement.
+
+7.4 Upon termination or expiration of this Agreement, Licensee shall immediately return all Licensed Software, Documentation and other Confidential Information to NXP. 
+
+8.0 CONFIDENTIALITY.
+
+8.1 Licensee shall retain in confidence and not disclose to any third person or employees except to those Licensee permanent employees who have a legitimate need to know any Confidential Information that it receives from NXP hereunder, and Licensee shall not use the Confidential Information for any purpose whatsoever except for the purpose of this Agreement. 
+
+8.2 Licensee represents and warrants that Licensee shall have as of the Effective Date, and shall maintain thereafter, with each of its employees who will have access to any Confidential Information, prior to their access to any Confidential Information, a written, signed agreement legally sufficient and effective to enable Licensee and each such employee to comply with all the provisions of this Agreement. 
+
+8.3 Except as expressly permitted in Article 2.0, Licensee shall not, and shall not permit anyone else to use, reproduce, duplicate, or otherwise disclose, distribute or disseminate any Confidential Information.  Licensee agrees to take all reasonable steps to prevent disclosure and unauthorized use of Confidential Information and to use no less than same degree of care that it uses with respect to its own confidential information of similar kind or nature.  Licensee shall promptly notify NXP of any unauthorized access to or any unauthorized use or disclosure of Confidential Information.  
+
+8.4 Licensee's obligations of confidentiality under this Agreement shall not apply to information that Licensee can establish by legally sufficient evidence: (i) is already in the public domain at the time it was disclosed or subsequently enters the public domain through no fault of the Licensee; (ii) is known to Licensee or in its possession, as shown by dated documentation prior to receipt; (iii) is independently developed by Licensee, as shown by dated documentation; or (iv) is rightfully received by Licensee on a non-confidential basis from a third party, as shown by dated documentation, without breach of this Agreement by Licensee.
+
+
+9.0 WARRANTY.
+
+9.1 The Licensed Software and related Documentation is provided to Licensee AS IS WITHOUT WARRANTY OF ANY KIND, which is accepted by Licensee. NXP makes no warranties to Licensee and shall not indemnify Licensee or hold it harmless for any reason related to the Licensed Software or Documentation, or otherwise be liable to Licensee.  Licensee acknowledges and agrees that the Licensed Software and Documentation is provided AS IS and accepts all risks of utilizing the Licensed Software and Documentation under the conditions set forth in this Agreement.  The foregoing states the entire liability of NXP in connection with any defective, error, omission or non-conforming Licensed Software or Documentation supplied hereunder.
+
+9.2 NXP EXPRESSLY DISCLAIMS ALSO ON BEHALF AND FOR THE BENEFIT OF ITS AFFILIATES ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS.  NXP SHALL HAVE NO LIABILITY TO LICENSEE, OR ITS SUBSIDIARIES, AFFILIATES, OR ANY OTHER THIRD PARTY FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION, DAMAGES RESULTING OR ALLEGDED TO HAVE RESULTED FROM ANY DEFECT, ERROR OR OMMISSION IN THE LICENSED SOFTWARE, THIRD PARTY APPLICATION SOFTWARE AND/OR DOCUMENTATION, OR AS A RESULT OF ANY INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHT OF ANY THIRD PARTY.
+
+
+10.0 LIMITATION OF LIABILITY
+
+10.1 EXCEPT FOR LICENSEE'S LIABILITY FOR BREACH OF ARTICLES 2, 3, 4, 8, OR 9 HEREOF, NO PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS OR LOST SAVINGS) WHETHER OR NOT SUCH DAMAGES ARE BASED ON TORT, WARRANTY, CONTRACT OR ANY OTHER LEGAL THEORY - EVEN IF SUCH PARTY HAS BEEN ADVISED, OR IS AWARE, OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL NXP BE LIABLE FOR ANY DAMAGE, COSTS OR EXPENSES ASSOCIATED WITH WARRANTY OR INTELLECTUAL PROPERTY INFRINGEMENT CLAIMS WHETHER FOR THE REPLACEMENT OR REPAIR OF PRODUCTS, INCLUDING LABOR, INSTALLATION OR OTHER COSTS INCURRED BY LICENSEE AND, IN PARTICULAR, ANY COSTS RELATED TO THE REMOVAL OR REPLACEMENT OF ANY PRODUCTS SOLDERED OR OTHERWISE PERMANENTLY AFFIXED TO ANY PRINTED CIRCUIT BOARD, EXCESS PROCUREMENT COSTS, OR REWORK CHARGES.
+
+10.2 THE LICENSED SOFTWARE IS NOT DESIGNED, AUTHORIZED OR WARRANTED TO BE SUITABLE FOR USE IN MEDICAL, MILITARY, AIR CRAFT, SPACE OR LIFE SUPPORT EQUIPMENT NOR IN APPLICATION WHERE FAILURE OR MALFUNCTION OF THE LICENSED SOFTWARE CAN REASONABLY BE EXPECTED TO RESULT IN A PERSONAL INJURY, DEATH OR SEVERE PROPERTY OR ENVIRONMENTAL DAMAGE.  INCLUSION AND /OR USE OF LICENSED SOFTWARE IN SUCH EQUIPMENT OR APPLICATIONS, WITHOUT PRIOR AUTHORIZATION IN WRITING OF NXP, IS NOT PERMITTED AND FOR LICENSEE'S OWN RISK.  LICENSEE AGREES TO FULLY INDEMNIFY NXP FOR ANY DAMAGES RESULTING FROM SUCH INCLUSION OR USE.
+
+
+11.0 GENERAL.
+
+11.1 The provisions of Articles 1, 3, 4, 5, 6, 7, 8, 9, 10 and 11 shall survive the expiration or termination of this Agreement. 
+
+11.2 Licensee shall not assign its rights or obligations under this Agreement without the prior written consent of NXP, and any purported assignment without such consent shall be void and have no force or effect.  Subject to the foregoing, this Agreement shall bind and inure to the benefit of the respective parties hereto and their successors and assigns.  Without limiting the generality of the foregoing, a change in the majority ownership or control of Licensee, by the transfer, directly or indirectly, of fifty percent (50%) or more of the shares of Licensee entitled to vote for the election of directors or other persons performing similar functions, or by equivalent change in ownership or control of Licensee if a partnership or other non-corporate form, shall be deemed an assignment of the Agreement by Licensee for the purpose of this Section 10.2.  In the event of any assignment or attempted assignment by Licensee, this Agreement shall terminate and all Licensed Software, Documentation, Confidential Information and related materials shall be returned to NXP within ten (10) days. NXP may assign this Agreement to any of its Affiliates or any third party without any consent of Licensee.
+
+11.3 The Parties hereto intend to establish a relationship of licensee and licensor and as such are independent contractors with neither party having authority to act as an agent or legal representative of the other to create any obligation, express or implied, on behalf of the other.
+No principal/agent, joint venture or partnership relationship is created between them by this Agreement.
+
+11.4 Each Party shall comply with all applicable federal, state and local laws, including, but not limited to those pertaining to U.S. and member states of the European Union's Export Administration or the export or import controls or restrictions of other applicable jurisdictions in performing under this Agreement.  Licensed Software, Documentation and other Confidential Information may be subject to United States and/or member states of the European Union's export control laws and may be subject to other foreign export and import control laws and regulations. Licensee agrees to strictly comply with all applicable export and import control laws and regulations, and, in particular, Licensee will not export or re-export the Licensed Software without all required, if any, United States and member states of the European Union's and foreign governmental licenses, approvals, or waivers. 
+
+11.5 Licensee acknowledges that a breach of this Agreement may cause irreparable damage for which recovery of money damages would be inadequate, and that, in addition to any and all remedies available at law and equity, NXP shall be entitled to seek injunctive relief to protect its rights under this Agreement. 
+
+11.6 Each Party acknowledges and agrees that this Agreement does not confer any rights to use any of the other Party's names, trademarks, or logos for any reason, including but not limited to, in connection with it advertising, publicity or other marketing activities. 
+
+11.7 The failure on the part of either Party to exercise, or any delay in exercising, any right or remedy arising from this Agreement shall not operate as a waiver thereof; nor shall any single or partial exercise of any right or remedy arising therefrom preclude any other or future exercise thereof or the exercise of any other right or remedy arising from this Agreement or by law.
+
+11.8 The headings and captions to Articles and Sections of this Agreement are for reference and only and shall not affect the construction or interpretation of this Agreement. 
+
+11.9 This Agreement shall be governed by and construed in accordance with the laws of Germany, without regard to provisions concerning conflicts of law. Licensee submits and consents to, for the exclusive benefit of NXP, the jurisdiction of the state and federal courts of Germany. Parties however also agree that NXP, at NXP's sole discretion, may also elect to bring legal action regarding any dispute arising from or in connection with this Agreement before any court in any country (or political subdivision thereof) which may have jurisdiction and Licensee herewith irrevocably and unconditionally submits to the exclusive jurisdiction of the courts chosen by NXP. The United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement.   
+
+11.10  All notices or communications to be given under this Agreement shall be in writing and shall be deemed to be validly given by delivery thereof to its recipient if (i) delivered upon hand delivery, or (ii) by deposit in the mail of the home country of the Party, postage prepaid, by certified, registered or first class mail or equivalent, or (iii) by nationally recognized overnight courier service (e.g., FedEx, UPS) prepaid, all of which are addressed to the parties at their addresses set forth above or such other address that a Party may notify the other party from time to time, in accordance with this Section 11.10.  Any written notice is deemed to have been received, if sent by hand delivery, certified or registered, first class (or equivalent) mail or prepaid overnight courier, at the time of its delivery.
+
+11.11 Neither Party shall publicize or disclose the existence or terms of this Agreement to any third Party, other than on a confidential basis to its legal and financial advisors, without the prior written consent of the other, except as otherwise may be required by law. 
+
+11.12 In the event that any provision(s) of this Agreement shall be held invalid or unenforceable by a court of competent jurisdiction or by any future legislative or administrative action, such holding or action shall not negate the validity or enforceability of any other provisions hereof.
+
+11.13 This Agreement may be executed in one or more counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument. 
+
+11.14 This Agreement, including its Appendices, sets forth the entire agreement between the parties relating to the subject matter herein, and supersedes and replaces all prior or contemporaneous agreements, discussions and understandings, written or oral, with respect to such subject matter.  Each Party represents that it is duly authorized to enter into the Agreement. The terms and conditions of this Agreement may not be modified, or amended. 
+
+ 
+
+APPENDIX A
+1. LICENSED SOFTWARE 
+
+A. EXECUTABLE CODE 
+NXP JavaCard Library and Utilities (JCShell)
+Windows reader libraries
+TCP JRCP server for Linux, Windows, and MAC OSX
+
+B. OBJECT CODE
+NXP JavaCard Library and Utilities (JCShell)
+
+C. SOURCE CODE
+
+      None
+    
+
+2. DOCUMENTATION
+
+A. DOCUMENTATION
+
+User Manual
+
+	
+	
+APPENDIX B
+1. DELIVERED THIRD PARTY SOFTWARE (Covered By Third Party Terms, See Appendix C)
+
+A. EXECUTABLE CODE 
+None
+
+B. OBJECT CODE
+Apache Commons IO 2.5 – Licensed under Apache License 2.0
+bouncycastle 1.52 - Licensed under MIT License
+commons-cli 1.2 - Licensed under Apache License 2.0
+eddsa 0.2.0 - Licensed under CC0 1.0 Universal
+FTDI D2XX Drivers 2.12.24 (Windows), 1.3.6 (Linux), 1.2.2 (macOS)
+jline 2.12.1 - Licensed under BSD License
+jna 4.1.0 - Licensed under Apache License 2.0
+milenage 1.0.0 - Licensed under MIT License
+org.fusesource.jansi 1.11 - Licensed under Apache License 2.0
+org.fusesource.hawtjni - Licensed under Apache License 2.0
+
+C. SOURCE CODE
+
+    None
+    
+2. DOCUMENTATION
+
+A. DOCUMENTATION
+
+User Manual
+
+
+APPENDIX C
+1. THIRD PARTY LICENSES
+======================================================================
+Apache Commons IO 2.5
+
+Project homepage: http://commons.apache.org/io
+
+Sources: http://apache.mirror1.spango.com//commons/io/source/commons-io-2.5-src.tar.gz  
+
+Notice.txt :
+Apache Commons IO
+Copyright 2002-2016 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+License: Licensed under Apache License 2.0
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+======================================================================
+bouncycastle 1.52
+
+Project homepage: http://www.bouncycastle.org/java.html
+
+Sources: https://www.bouncycastle.org/latest_releases.html
+
+License:
+
+Copyright (c) 2000 - 2015 The Legion of the Bouncy Castle Inc.
+(http://www.bouncycastle.org)
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files
+(the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be 
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+======================================================================
+
+commons-cli 1.2
+
+Project homepage: https://commons.apache.org/proper/commons-cli/
+
+Sources:https://commons.apache.org/proper/commons-cli/download_cli.cgi
+
+License:
+Licensed under Apache License 2.0
+                       
+
+APPENDIX: How to apply the Apache License to your work.
+
+To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!)  The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
+Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+NOTICE.txt:
+Apache Commons CLI
+Copyright 2001-2016 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+======================================================================
+
+eddsa 0.2.0
+
+Project homepage: https://github.com/str4d/ed25519-java
+
+Sources : https://github.com/str4d/ed25519-java
+
+License:
+Creative Commons Legal Code
+
+CC0 1.0 Universal
+
+    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+    HEREUNDER.
+
+Statement of Purpose
+
+The laws of most jurisdictions throughout the world automatically confer
+exclusive Copyright and Related Rights (defined below) upon the creator
+and subsequent owner(s) (each and all, an "owner") of an original work of
+authorship and/or a database (each, a "Work").
+
+Certain owners wish to permanently relinquish those rights to a Work for
+the purpose of contributing to a commons of creative, cultural and
+scientific works ("Commons") that the public can reliably and without fear
+of later claims of infringement build upon, modify, incorporate in other
+works, reuse and redistribute as freely as possible in any form whatsoever
+and for any purposes, including without limitation commercial purposes.
+These owners may contribute to the Commons to promote the ideal of a free
+culture and the further production of creative, cultural and scientific
+works, or to gain reputation or greater distribution for their Work in
+part through the use and efforts of others.
+
+For these and/or other purposes and motivations, and without any
+expectation of additional consideration or compensation, the person
+associating CC0 with a Work (the "Affirmer"), to the extent that he or she
+is an owner of Copyright and Related Rights in the Work, voluntarily
+elects to apply CC0 to the Work and publicly distribute the Work under its
+terms, with knowledge of his or her Copyright and Related Rights in the
+Work and the meaning and intended legal effect of CC0 on those rights.
+
+1. Copyright and Related Rights. A Work made available under CC0 may be
+protected by copyright and related or neighboring rights ("Copyright and
+Related Rights"). Copyright and Related Rights include, but are not
+limited to, the following:
+
+  i. the right to reproduce, adapt, distribute, perform, display,
+     communicate, and translate a Work;
+ ii. moral rights retained by the original author(s) and/or performer(s);
+iii. publicity and privacy rights pertaining to a person's image or
+     likeness depicted in a Work;
+ iv. rights protecting against unfair competition in regards to a Work,
+     subject to the limitations in paragraph 4(a), below;
+  v. rights protecting the extraction, dissemination, use and reuse of data
+     in a Work;
+ vi. database rights (such as those arising under Directive 96/9/EC of the
+     European Parliament and of the Council of 11 March 1996 on the legal
+     protection of databases, and under any national implementation
+     thereof, including any amended or successor version of such
+     directive); and
+vii. other similar, equivalent or corresponding rights throughout the
+     world based on applicable law or treaty, and any national
+     implementations thereof.
+
+2. Waiver. To the greatest extent permitted by, but not in contravention
+of, applicable law, Affirmer hereby overtly, fully, permanently,
+irrevocably and unconditionally waives, abandons, and surrenders all of
+Affirmer's Copyright and Related Rights and associated claims and causes
+of action, whether now known or unknown (including existing as well as
+future claims and causes of action), in the Work (i) in all territories
+worldwide, (ii) for the maximum duration provided by applicable law or
+treaty (including future time extensions), (iii) in any current or future
+medium and for any number of copies, and (iv) for any purpose whatsoever,
+including without limitation commercial, advertising or promotional
+purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
+member of the public at large and to the detriment of Affirmer's heirs and
+successors, fully intending that such Waiver shall not be subject to
+revocation, rescission, cancellation, termination, or any other legal or
+equitable action to disrupt the quiet enjoyment of the Work by the public
+as contemplated by Affirmer's express Statement of Purpose.
+
+3. Public License Fallback. Should any part of the Waiver for any reason
+be judged legally invalid or ineffective under applicable law, then the
+Waiver shall be preserved to the maximum extent permitted taking into
+account Affirmer's express Statement of Purpose. In addition, to the
+extent the Waiver is so judged Affirmer hereby grants to each affected
+person a royalty-free, non transferable, non sublicensable, non exclusive,
+irrevocable and unconditional license to exercise Affirmer's Copyright and
+Related Rights in the Work (i) in all territories worldwide, (ii) for the
+maximum duration provided by applicable law or treaty (including future
+time extensions), (iii) in any current or future medium and for any number
+of copies, and (iv) for any purpose whatsoever, including without
+limitation commercial, advertising or promotional purposes (the
+"License"). The License shall be deemed effective as of the date CC0 was
+applied by Affirmer to the Work. Should any part of the License for any
+reason be judged legally invalid or ineffective under applicable law, such
+partial invalidity or ineffectiveness shall not invalidate the remainder
+of the License, and in such case Affirmer hereby affirms that he or she
+will not (i) exercise any of his or her remaining Copyright and Related
+Rights in the Work or (ii) assert any associated claims and causes of
+action with respect to the Work, in either case contrary to Affirmer's
+express Statement of Purpose.
+
+4. Limitations and Disclaimers.
+
+ a. No trademark or patent rights held by Affirmer are waived, abandoned,
+    surrendered, licensed or otherwise affected by this document.
+ b. Affirmer offers the Work as-is and makes no representations or
+    warranties of any kind concerning the Work, express, implied,
+    statutory or otherwise, including without limitation warranties of
+    title, merchantability, fitness for a particular purpose, non
+    infringement, or the absence of latent or other defects, accuracy, or
+    the present or absence of errors, whether or not discoverable, all to
+    the greatest extent permissible under applicable law.
+ c. Affirmer disclaims responsibility for clearing rights of other persons
+    that may apply to the Work or any use thereof, including without
+    limitation any person's Copyright and Related Rights in the Work.
+    Further, Affirmer disclaims responsibility for obtaining any necessary
+    consents, permissions or other rights required for any use of the
+    Work.
+ d. Affirmer understands and acknowledges that Creative Commons is not a
+    party to this document and has no duty or obligation with respect to
+    this CC0 or use of the Work.
+
+For more information, please see https://creativecommons.org/publicdomain/zero/1.0/
+
+======================================================================
+FTDI D2XX Drivers 2.12.24 (Windows), 1.3.6 (Linux), 1.2.2 (macOS)
+
+Project homepage: http://www.ftdichip.com/Drivers/D2XX.htm
+
+Sources : http://www.ftdichip.com/Drivers/D2XX.htm
+
+Driver Licence Terms:
+
+IMPORTANT NOTICE: PLEASE READ CAREFULLY BEFORE INSTALLING THE RELEVANT SOFTWARE: This licence agreement ("Licence") is a legal agreement between you ("Licencee" or "you") and Future Technology Devices International Limited of 2 Seaward Place, Centurion Business Park, Glasgow, Scotland, G41 1HH (UK Company Number SC136640) ("Licensor" or "we) for use of driver software provided by the Licensor ("Software").
+
+BY INSTALLING OR USING THIS SOFTWARE YOU AGREE TO THE TERMS OF THIS LICENCE WHICH WILL BIND YOU.  IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENCE, WE ARE UNWILLING TO LICENSE THE SOFTWARE TO YOU AND YOU MUST DISCONTINUE INSTALLATION OF THE SOFTWARE NOW.
+
+1.		Grant and scope of licence
+1.1		In consideration of you agreeing to abide by the terms of this Licence, the Licensor hereby grants to you a non-exclusive, non-transferable, royalty free licence to use the Software on the terms of this Licence.
+1.2		In this Licence a "Genuine FTDI Component" means an item of hardware that was manufactured for, and sold by, the Licensor or a member of the Licensor's group of companies. It does not include any counterfeit or fake products.
+1.3		If you are a manufacturer of a device that includes a Genuine FTDI Component (each a "Device") then you may install the Software onto that device. If you are a seller or distributor of a Device then You may distribute the Software with the Device. If you are a user of a Device then you may install the Software on the Device, or onto a computer system in order to use the Device.
+1.4		In each of those cases you may:
+1.4.1	install and use the Software for your purposes only; and
+1.4.2	only use the Software in conjunction with products based on and/or incorporating a Genuine FTDI Component.
+1.5		The Software will not function properly on or with a component that is not a Genuine FTDI Component. Use of the Software as a driver for, or installation of the Software onto,  a component that is not a Genuine FTDI Component, including without limitation counterfeit components, MAY IRRETRIEVABLY DAMAGE THAT COMPONENT.  It is the Licensee's responsibility to make sure that all chips it installs the Software on, or uses the Software as a driver for, are Genuine FTDI Components. If in doubt then contact the Licensor. 
+
+2.		If a custom vendor ID and/or product ID or description string are used, it is the responsibility of the product manufacturer to maintain any changes and subsequent WHQL re-certification as a result of making these changes.
+
+3.		Licensee's undertakings
+3.1		Except as expressly set out in this Licence or as permitted by any local law, you undertake:
+3.1.1	not to copy the Software, except where such copying is incidental to normal use of the Software or where it is necessary for the purpose of back-up or operational security;
+3.1.2	not to rent, lease, sub-license, loan, translate, merge, adapt, vary or modify the Software or any part of it;
+3.1.3	not to make alterations to, or modifications of, the whole or any part of the Software nor permit the Software or any part of it to be combined with, or become incorporated in, any other programs;
+3.1.4	not to disassemble, de-compile, reverse engineer or create derivative works based on the whole or any part of the Software;
+3.1.5	to keep all copies of the Software secure;
+3.1.6	to include the copyright notice of the Licensor on all entire and partial copies of the Software in any form; and
+3.1.7	not to provide, or otherwise make available, the Software in any form, in whole or in part (including, but not limited to, program listings, object and source program listings, object code and source code) to any person.
+
+4.		Intellectual property rights
+4.1		You acknowledge that all intellectual property rights in the Software throughout the world belong to the Licensor, that rights in the Software are licensed (not sold) to you, and that you have no rights in, or to, the Software other than the right to use them in accordance with the terms of this Licence.
+
+5.		Warranty
+5.1		To the maximum extent permitted by applicable law, the software is provided "as is".
+5.2		All implied warranties, implied conditions and/or implied licences are excluded from this Licence, including but not limited to implied warranties of quality and/or fitness for purpose (in all cases) to the fullest extent permitted by law.
+5.3		You acknowledge that the Software has not been developed to meet your individual requirements and that the Software may not be uninterrupted or free of bugs or errors.
+
+6.		Licensor's liability
+6.1		To the maximum extent permitted by applicable law, in no event shall the Licensor be liable for any:
+6.1.1	special loss or damage;
+6.1.2	incidental loss or damage;
+6.1.3	indirect or consequential loss or damage:
+6.1.4	loss of income;
+6.1.5	loss of business;
+6.1.6	loss of profits;
+6.1.7	loss of revenue;
+6.1.8	loss of  contracts;
+6.1.9	business interruption;
+6.1.10	loss of the use of money or anticipated savings;
+6.1.11	loss of information;
+6.1.12	loss of opportunity;
+6.1.13	loss of  goodwill or reputation; and/or
+6.1.14	loss of, damage to or corruption of data;
+(in each case) of any kind howsoever arising and whether caused by delict (including negligence), breach of contract or otherwise.
+6.2		FTDI's total liability to you in relation to the Software shall not exceed 500 US Dollars.
+6.3		Nothing in this Licence limits or excludes liability for death or personal injury or for fraud.
+
+7.		Termination
+7.1		The Licensor may terminate this Licence immediately if:
+7.1.1	you fail to comply with any of the terms and conditions of the Licence; or
+7.1.2	you commence or participate in any legal proceedings against the Licensor.
+7.2		Upon termination:
+7.2.1	all rights granted to you under this Licence shall cease;
+7.2.2	you must cease all activities authorised by this Licence; and
+7.2.3	you must immediately delete or remove the Software from all computer equipment in your possession and immediately destroy all copies of the Software then in your possession, custody or control.
+
+8.		Transfer of rights and obligations
+8.1		You may not transfer, assign, charge or otherwise dispose of this Licence, or any of your rights or obligations arising under it.
+8.2		The Licensor may transfer, assign, charge, sub-contract or otherwise dispose of this Licence, or any of his rights or obligations arising under it, at any time during the term of the Licence.
+
+9.		Waiver
+9.1		If the Licensor fails, at any time during the term of this Licence, to insist on strict performance of any of your obligations under this Licence, or if the Licensor fails to exercise any of the rights or remedies to which he is entitled under this Licence, this shall not constitute a waiver of such rights or remedies and shall not relieve you from compliance with such obligations.
+9.2		A waiver by the Licensor of any default shall not constitute a waiver of any subsequent default.
+9.3		No waiver by the Licensor of any of these terms and conditions shall be effective unless it is expressly stated to be a waiver and is communicated to you in writing.
+
+10.		Severability:
+If any of the terms of this Licence are determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term, condition or provision will to that extent be severed from the remaining terms, conditions and provisions which will continue to be valid to the fullest extent permitted by law.
+
+11.		Entire agreement
+11.1	This Licence constitutes the whole agreement between us and supersedes any previous arrangement, understanding or agreement between us, relating to the licensing of the Software.
+11.2	Each party acknowledges that in entering into this Licence it does not rely on any statement, representation, warranty or understanding other than those expressly set out in this Licence.  Each party agrees that it will have no remedy in respect of any statement, representation, warranty or understanding that is not expressly set out in this Licence. Each party agrees that its only remedy in respect of those representations, statements, assurances and warranties that are set out in this Licence will be for breach of contract in accordance with the terms of this Licence.
+11.3	The parties agree that nothing in this Licence will limit or exclude any liability they may have for fraud.
+
+12.		Miscellaneous
+12.1	This Licence does not create a partnership or joint venture between the parties to it, nor authorise a party to act as agent for the other. 
+12.2	This Licence does not create any legal rights enforceable by any third party.
+12.3	This Licence may only be varied by express written legal agreement between the parties.
+
+13.		Law and jurisdiction
+
+This Licence, its subject matter or its formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with Scots law and submitted to the non-exclusive jurisdiction of the Scottish courts.
+
+======================================================================
+groovy-all 2.3.8
+
+
+Project homepage: http://groovy-lang.org
+
+Sources: https://github.com/java-native-access/jna
+
+License:
+Licensed under Apache License 2.0
+
+======================================================================
+jline 2.12.1
+
+Project homepage: http://jline.sourceforge.net/
+
+Sources: http://github.com/jline/jline2
+
+License:
+
+Copyright (c) 2002-2015, the original author or authors.
+All rights reserved.
+
+http://www.opensource.org/licenses/bsd-license.php
+
+Redistribution and use in source and binary forms, with or
+without modification, are permitted provided that the following
+conditions are met:
+
+Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with
+the distribution.
+
+Neither the name of JLine nor the names of its contributors
+may be used to endorse or promote products derived from this
+software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
+AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGE.
+
+======================================================================
+jna	4.1.0
+
+Project homepage: https://github.com/java-native-access/jna
+
+Sources: https://github.com/java-native-access/jna
+
+License:
+This copy of JNA is licensed under the
+Apache (Software) License, version 2.0 ("the License").
+See the License for details about distribution rights, and the
+specific rights regarding derivate works.
+
+You may obtain a copy of the License at:
+
+http://www.apache.org/licenses/
+
+A copy is also included in the downloadable source code package
+containing JNA, in file "ASL2.0", under the same directory
+as this file.
+
+ASL2.0:
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+======================================================================
+milenage 1.0.0
+
+Project homepage: https://github.com/brake/milenage
+
+Sources: https://github.com/brake/milenage
+
+License: MIT License
+
+Copyright © 2015-2016 Constantin Roganov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this software and associated documentation files (the "Software"), 
+to deal in the Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit persons to whom the 
+Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in 
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR 
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+======================================================================
+org.fusesource.jansi 1.11
+Project homepage: https://github.com/fusesource/jansi
+Sources: https://github.com/fusesource/jansi
+License: Apache License 2.0
+
+======================================================================
+org.fusesource.hawtjni
+Project homepage: https://github.com/fusesource/hawtjni
+Sources: https://github.com/fusesource/hawtjni
+License: Apache License 2.0
+ 
+======================================================================
